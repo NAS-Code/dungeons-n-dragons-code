@@ -1,7 +1,8 @@
 import random
 
+
 class ImportantNpc:
-    def __init__ (self, name, prof_bonus, dex, int, cha, distance, bombs):
+    def __init__(self, name, prof_bonus, dex, int, cha, distance, bombs):
         self.name = name
         self.prof_bonus = prof_bonus
         self.dex = dex
